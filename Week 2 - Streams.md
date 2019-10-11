@@ -8,11 +8,12 @@
     * run
     * start/stop
 
-## Go db
+## SQL
 * Setting up a SQL Connection
 * db.Query, db.QueryRow, db.Exec
 
-## Go http
+## Http
+* cURL
 * Handler
 * ListenAndServe
 * HTTP request, response
